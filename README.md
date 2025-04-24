@@ -1,7 +1,7 @@
 # databrickspark
-databrickspark : #databricks #spark
+databrickspark : #databricks #spark #azure
 
-## In Progress..
+## CI/CD In Progress..
 
 ![GetStart](https://github.com/miozilla/databrickspark/blob/main/hive_metastore.default.products.ipynb)
 

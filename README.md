@@ -1,5 +1,5 @@
 # databrickspark
-databrickspark : #databricks #spark #azure
+databrickspark : Retails/Products #databricks #apache_spark_cluster #azure #hive_metastore #pyspark
 
 ## CI/CD In Progress..
 

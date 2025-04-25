@@ -1,6 +1,9 @@
 # databrickspark 🧱⭐
 databrickspark : Retails/Products #databricks #apache_spark_cluster #azure #hive_metastore #pyspark
 
+## Objective
+Big data analytics for machine learning.
+
 ## CI/CD In Progress..
 
 ![GetStart](https://github.com/miozilla/databrickspark/blob/main/hive_metastore.default.products.ipynb)
